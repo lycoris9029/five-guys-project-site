@@ -17,6 +17,6 @@ window.PROJECT_DATA = {
     { title: 'Source repository', description: 'Implementation, commits, and collaboration.', url: 'https://github.com/baylor-csi5324-team3/recruiting-system' },
     { title: 'Project board', description: 'Trello or Jira · tasks, ownership, and progress.', url: 'https://csi5324.atlassian.net/jira/software/projects/KAN/boards/1?filter=&groupBy=none' },
     { title: 'Documentation', description: 'Requirements, use cases, and design artifacts.', url: 'https://docs.google.com/document/d/1NK1_mC86pCefdBCBaigEEdLV5yKWJGIi/edit' },
-    { title: 'Video demonstrations', description: 'Prototype walkthroughs and use case demos.', url: '' }
+    { title: 'Implementation', description: 'Prototype walkthroughs and use case demos.', url: '' }
   ]
 };
