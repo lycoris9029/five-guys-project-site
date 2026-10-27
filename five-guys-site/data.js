@@ -14,9 +14,13 @@ window.PROJECT_DATA = {
     { name: 'Iteration 3', short: 'Integration & delivery', status: 'PROPOSED SCOPE · TO BE CONFIRMED', title: 'Bring the whole experience together.', description: 'A proposed final delivery outline. Confirm the scope against the course requirements before submission.', items: ['Integrated application and regression testing', 'Final documentation and user guide', 'Demonstration and release package'], url: '', linkLabel: 'View iteration 3 deliverables' }
   ],
   resources: [
-    { title: 'Source repository', description: 'Implementation, commits, and collaboration.', url: 'https://github.com/baylor-csi5324-team3/recruiting-system' },
+    { title: 'Status Report', description: 'Implementation, commits, and collaboration.', url: 'downloads/Iteration2_Status_Report_Team3.pdf' },
     { title: 'Project board', description: 'Trello or Jira · tasks, ownership, and progress.', url: 'https://csi5324.atlassian.net/jira/software/projects/KAN/boards/1?filter=&groupBy=none' },
     { title: 'Documentation', description: 'Requirements, use cases, and design artifacts.', url: 'https://docs.google.com/document/d/1NK1_mC86pCefdBCBaigEEdLV5yKWJGIi/edit' },
-    { title: 'Video demonstrations', description: 'Prototype walkthroughs and use case demos.', url: '' }
+    {
+      title: 'Implementation',
+      description: 'Iteration 2 implementation package.',
+      url: '/downloads/iteration2.zip'
+    }
   ]
 };
