@@ -21,6 +21,5 @@ window.PROJECT_DATA = {
       title: 'Implementation',
       description: 'Iteration 2 implementation package.',
       url: '/downloads/iteration2.zip'
-    }
-  ]
+    }  ]
 };
