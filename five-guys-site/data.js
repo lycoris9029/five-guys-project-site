@@ -4,9 +4,9 @@ window.PROJECT_DATA = {
   members: [
     { initials: 'PC', name: 'Luyu Niu', role: 'Project Manager', cases: ['Search Available Jobs','Create and Publish a Job Posting','Manage Accounts and Roles'] },
     { initials: '02', name: 'Yuting Mei', role: 'Design Engineer', cases: ['Submit Job Application','Save Job Posting','Manage Job Posting'] },
-    { initials: '03', name: 'Xinyi Chen', role: 'Requirements Engineer', cases: ['Register Account','User Login','Maintain Applicant Profile'] },
-    { initials: '04', name: 'Peter Chen', role: 'Quality Assurance Engineer', cases: ['Respond to Job Offer', 'Update Application Stage', 'Review Submitted Applications'] },
-    { initials: '05', name: 'Spencer Hammack ', role: 'Project Librarian', cases: ['Track Application Stage','Withdraw an Application','Schedule an Interview'] }
+    { initials: '03', name: 'Xinyi Chen', role: 'Requirements Engineer', cases: ['Register Account','User Login','Update Applicant Profile'] },
+    { initials: '04', name: 'Peter Chen', role: 'Quality Assurance Engineer', cases: ['Update Application Stage', 'Review Submitted Applications'] },
+    { initials: '05', name: 'Spencer Hammack ', role: 'Project Librarian', cases: ['Track Application Stage','Withdraw an Application','Extend to Offer'] }
   ],
   iterations: [
     { name: 'Iteration 1', short: 'Analysis & design', status: 'DELIVERY STATUS TO BE CONFIRMED', title: 'Start with a shared understanding.', description: 'Requirements and design artifacts establish the scope and structure of the recruiting system.', items: ['Project vision and requirements', 'Fully dressed use cases and domain model', 'Sequence diagrams and design class diagram'], url: 'https://github.com/baylor-csi5324-team3/recruiting-system/releases/tag/v1.0', linkLabel: 'View iteration 1 deliverables' },
