@@ -14,7 +14,7 @@ window.PROJECT_DATA = {
     { name: 'Iteration 3', short: 'Integration & delivery', status: 'UPCOMING', title: 'Bring the whole experience together.', description: 'A proposed final delivery outline.', items: ['Integrated application and regression testing', 'Final documentation and user guide', 'Demonstration and release package'], url: '', linkLabel: 'View iteration 3 deliverables' }
   ],
   resources: [
-    { title: 'Status Report', description: 'Implementation, commits, and collaboration.', url: 'Team3_Iteration2_Status_Report.pdf' },
+    { title: 'Status Report', description: 'Implementation, commits, and collaboration.', url: 'downloads/Team3_Iteration2_Status_Report.pdf' },
     { title: 'Jira', description: 'Trello or Jira · tasks, ownership, and progress.', url: 'https://csi5324.atlassian.net/jira/software/projects/KAN/boards/1?filter=&groupBy=none' },
     { title: 'Documentation', description: 'Requirements, use cases, and design artifacts.', url: 'downloads/Team3_Iteration2_Documentation.pdf' },
     {
