@@ -10,13 +10,13 @@ window.PROJECT_DATA = {
   ],
   iterations: [
     { name: 'Iteration 1', short: 'Analysis & design', status: 'DELIVERED RELEASE v1.0', title: 'Start with a shared understanding.', description: 'Requirements and design artifacts establish the scope and structure of the recruiting system.', items: ['Project vision and requirements', 'Fully dressed use cases and domain model', 'Sequence diagrams and design class diagram'], url: 'https://github.com/baylor-csi5324-team3/recruiting-system/releases/tag/v1.0', linkLabel: 'View iteration 1 deliverables' },
-    { name: 'Iteration 2', short: 'Implementation & review', status: 'DELIVERED RELEASE v2.5.1', title: 'Turn the design into working software.', description: 'Bring together implementation progress, interface evidence, and the next steps for delivery.', items: ['Current implementation status and roadblocks', 'UI screenshots with use case owner and backend connection status', 'Updated documentation, sequence diagrams, and class diagram', 'Prototype walkthrough and project website'], url: 'https://github.com/baylor-csi5324-team3/recruiting-system/releases/tag/v2.2', linkLabel: 'View iteration 2 deliverables' },
+    { name: 'Iteration 2', short: 'Implementation & review', status: 'DELIVERED RELEASE v2.5.1', title: 'Turn the design into working software.', description: 'Bring together implementation progress, interface evidence, and the next steps for delivery.', items: ['Current implementation status and roadblocks', 'UI screenshots with use case owner and backend connection status', 'Updated documentation, sequence diagrams, and class diagram', 'Prototype walkthrough and project website'], url: 'https://github.com/baylor-csi5324-team3/recruiting-system/releases/tag/v2.5', linkLabel: 'View iteration 2 deliverables' },
     { name: 'Iteration 3', short: 'Integration & delivery', status: 'UPCOMING', title: 'Bring the whole experience together.', description: 'A proposed final delivery outline.', items: ['Integrated application and regression testing', 'Final documentation and user guide', 'Demonstration and release package'], url: '', linkLabel: 'View iteration 3 deliverables' }
   ],
   resources: [
-    { title: 'Status Report', description: 'Implementation, commits, and collaboration.', url: 'downloads/Iteration2_Status_Report_Team3(1).pdf' },
+    { title: 'Status Report', description: 'Implementation, commits, and collaboration.', url: 'Team3_Iteration2_Status_Report.pdf' },
     { title: 'Jira', description: 'Trello or Jira · tasks, ownership, and progress.', url: 'https://csi5324.atlassian.net/jira/software/projects/KAN/boards/1?filter=&groupBy=none' },
-    { title: 'Documentation', description: 'Requirements, use cases, and design artifacts.', url: 'https://docs.google.com/document/d/1NK1_mC86pCefdBCBaigEEdLV5yKWJGIi/edit' },
+    { title: 'Documentation', description: 'Requirements, use cases, and design artifacts.', url: 'downloads/Team3_Iteration2_Documentation.pdf' },
     {
       title: 'Implementation',
       description: 'Iteration 2 implementation package.',
